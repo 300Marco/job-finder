@@ -363,6 +363,10 @@ body {
         font-size: 1.7rem;
     }
 
+    .list-group-item a {
+        width: 90px;
+    }
+
     .list-group-item h3 {
         font-size: 1.2rem;
         width: 90%;
