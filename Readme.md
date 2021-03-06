@@ -55,7 +55,7 @@ O Job Finder é uma plataforma onde programadores podem pesquisar por vagas de e
 # Download do repositório
 git clone https://github.com/300Marco/job-finder
 
-# No VSCode dentro da pasta do projeto na barra de navegação
+# No VSCode dentro da pasta do projeto na barra de navagação
 # clique em terminal, em seguida "New Terminal"
 # Baixar as dependências
 npm install
