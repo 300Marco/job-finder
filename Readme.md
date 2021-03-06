@@ -1,4 +1,4 @@
-<p align="center"> <img src="github/logo-job.png" title="Logo" width="350"> </p>
+<p align="center"> <img src="./github/logo-job.png" title="Logo" width="350"> </p>
 
 ---
 
@@ -65,4 +65,7 @@ npm run dev
 
 # Abra o browser em
 http://localhost:3000
+
+# Você pode acessar o projeto através de seu dispositivo móvel conectado na mesma rede
+SEUIP:3000
 ```
