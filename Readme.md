@@ -53,7 +53,7 @@ O Job Finder é uma plataforma onde programadores podem pesquisar por vagas de e
 
 ```bash
 # Download do repositório
-git clone https://github.com/magaliais/proffy
+git clone https://github.com/300Marco/job-finder
 
 # No VSCode dentro da pasta do projeto na barra de navegação
 # clique em terminal, em seguida "New Terminal"
